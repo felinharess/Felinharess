@@ -2,7 +2,6 @@
 
 - 🌱 Estudando Banco de dados e programação mobile
 - 📫 Contate-me no email: felinharesdomingues@gmail.com
-- 😄 Pronomes: ele/dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felinharess&theme=shadow_green&show_icons=true)
 <div style="display: inline_block"><br>
