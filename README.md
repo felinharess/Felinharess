@@ -3,8 +3,11 @@
 - 🌱 Estudando Banco de dados e programação mobile
 - 📫 Contate-me no email: felinharesdomingues@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felinharess&theme=shadow_green&show_icons=true)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitorcsm&layout=compact&langs_count=6&theme=shadow_green"/>
+ <div>
+   <a href="https://github.com/Felinharess">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felinharess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felinharess&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
