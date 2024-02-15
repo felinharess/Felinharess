@@ -1,8 +1,5 @@
 ## Bem vindo a minha página, eu sou Felipe Linhares
 
-- 🌱 Estudando Banco de dados e programação mobile
-- 📫 Contate-me no email: felinharesdomingues@gmail.com
-
  <div>
    <a href="https://github.com/Felinharess">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felinharess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
