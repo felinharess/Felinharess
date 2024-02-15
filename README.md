@@ -1,4 +1,6 @@
 ## Bem vindo a minha página, eu sou Felipe Linhares
+- 🌱 Estudando Banco de dados e programação mobile
+- 📫 Contate-me no email: felinharesdomingues@gmail.com
 
  <div>
    <a href="https://github.com/Felinharess">
