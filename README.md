@@ -1,5 +1,5 @@
-i## Bem vindo a minha página, eu sou Felipe Linhares
-- 🌱 Estudando Banco de dados e programação mobile
+### Bem vindo a minha página, eu sou Felipe Linhares
+- 🌱 Estou cursando a segunda fazer do curso tecnico de Análise e desenvolvimento de sistemas
 - 📫 Contate-me no email: felinharesdomingues@gmail.com
 
   <div>
