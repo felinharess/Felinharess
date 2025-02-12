@@ -1,5 +1,5 @@
 ### Bem vindo a minha página, eu sou Felipe Linhares Domingues
-- 🌱 Estou cursando a terceira fase do curso tecnico de Análise e desenvolvimento de sistemas
+- 🌱 Estou cursando a quarta fase do curso tecnico de Análise e desenvolvimento de sistemas
 - 📫 Contate-me no email: felinharesdomingues@gmail.com
 
  <div>
