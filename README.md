@@ -1,4 +1,4 @@
-# 👨‍💻 Felipe Linhares Domingues
+# 👨🏻‍💻 Felipe Linhares Domingues
 
 **`Desenvolvedor FullStack`**
 
@@ -20,6 +20,20 @@ Sou formado em Técnico em Desenvolvimento de Sistemas pelo SENAI e atualmente c
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Felinharess?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/felipe-linhares-domingues" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/fe_.linhares" target="_blank">
+        <img 
+            alt="Instagram" 
+            title="Meu Instagram" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
 </p>
@@ -84,6 +98,14 @@ Sou formado em Técnico em Desenvolvimento de Sistemas pelo SENAI e atualmente c
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -99,11 +121,10 @@ Sou formado em Técnico em Desenvolvimento de Sistemas pelo SENAI e atualmente c
     src="https://github-readme-stats.vercel.app/api?username=Felinharess&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felinharess&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
