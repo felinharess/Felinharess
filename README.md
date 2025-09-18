@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Felipe Linhares Domingues
+# 👨‍💻 Felipe Linhares Domingues
 
 **`Desenvolvedor FullStack`**
 
